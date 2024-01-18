@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-- 🔭 I’m currently studying in University of Washington, Bothell.
-- 🌱 I’m currently learning Computer Science & Software Engineering
+_ CHECK OUT MY PORTFOLIO AT: https://marlinism.github.io/Portfolio/
+- 🔭 I’m currently studying in Seattle University.
+- 🌱 I’m currently learning Computer Science
 - 💬 Ask me about my perspective towards something
 - 📫 How to reach me: mail me at tbanh2001@gmail.com
 - 😄 Pronouns: he/him/his
